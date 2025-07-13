@@ -598,7 +598,7 @@ width: 100vw;
   gap: 100px;
   max-width: 1200px;
   margin: 0 auto;
-  padding: 80 40px;
+  padding: 30px 40px;
   flex-wrap: wrap; /* für mobile fallback */
 }
 
